@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Mchat</string>
+    <string name="MobileVerification">Mobile Verification</string>
+    <string name="Enteryourphonenumbertogetyour">Enter your phone number to get your</string>
+    <string name="verificationcode">verification code</string>
+
+
+</resources>
